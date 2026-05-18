@@ -1,0 +1,39 @@
+# Pasta de build temporária
+build/
+dist/
+Output/
+
+# Arquivos PyInstaller
+*.spec
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição
+*.egg-info/
+.eggs/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.log
+.pytest_cache/
+
+# Instalador
+installer.iss
