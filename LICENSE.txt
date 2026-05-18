@@ -1,0 +1,64 @@
+MIT License
+
+Copyright (c) 2025 Fernando Carlos Beltrame
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+⚠️ IMPORTANTE - AVISO LEGAL E DE SAÚDE
+
+1. FERRAMENTA EDUCATIVA
+   Este software é uma FERRAMENTA EDUCATIVA apenas. Não foi desenvolvido com
+   o objetivo de substituir ou equivaler à orientação profissional de um
+   nutricionista, médico ou qualquer outro profissional de saúde.
+
+2. NÃO SUBSTITUI PROFISSIONAIS
+   Este sistema NÃO deve ser usado como:
+   - Diagnóstico médico
+   - Tratamento de qualquer condição de saúde
+   - Aconselhamento nutricional profissional
+   - Prescrição de dietas
+
+3. CONSULTORIA PROFISSIONAL OBRIGATÓRIA
+   Antes de iniciar qualquer mudança significativa em seus hábitos alimentares:
+   - Consulte um nutricionista registrado
+   - Consulte seu médico
+   - Informe sobre qualquer condição de saúde preexistente
+   - Informe sobre alergia ou intolerância alimentar
+
+4. LIMITAÇÕES DO SISTEMA
+   O software usa estimativas e fórmulas genéricas que podem não corresponder
+   à sua situação específica. Cada pessoa é diferente e requer avaliação
+   individualizada.
+
+5. SEM RESPONSABILIDADE
+   Os desenvolvedores não serão responsáveis por qualquer dano, lesão ou
+   perda resultante do uso deste software.
+
+6. USO POR SUA CONTA E RISCO
+   Ao usar este software, você concorda que:
+   - Está usando por sua conta e risco
+   - Consultará um profissional antes de fazer mudanças
+   - Não responsabilizará os desenvolvedores por qualquer consequência
+
+---
+
+Desenvolvido com ❤️ para fins educacionais
+© 2025 Fernando Carlos Beltrame
