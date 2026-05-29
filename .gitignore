@@ -13,6 +13,12 @@ __pycache__/
 *.egg-info/
 .eggs/
 *.egg
+*.zip
+*.rar
+*.7z
+
+# Dados locais do usuario
+alimentos_personalizados.json
 
 # IDE
 .vscode/
